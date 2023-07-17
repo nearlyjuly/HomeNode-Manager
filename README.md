@@ -4,6 +4,7 @@ followed by npm run setup. This will create your Sqlite3 database in your root f
 
 # To start the DID manager
 npm run did
+then visit localhost:8080 to see the options
 
 You can use a test DWN provided by TBD https://developer.tbd.website/ or set up a local version with https://github.com/nearlyjuly/Home_Node
 
