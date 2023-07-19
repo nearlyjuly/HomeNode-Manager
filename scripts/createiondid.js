@@ -42,7 +42,7 @@ export async function createIon(didName, nodeAddress) {
   });
 
   //get the value of the short DID URI
-  const did = await newdid.getURI();
+  const did = await newdid.getURI('short');
 
   //get the operations file for the newly created DID and stringify ready for adding to db
   const operations = await newdid.getAllOperations();
