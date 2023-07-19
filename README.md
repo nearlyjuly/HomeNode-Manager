@@ -6,7 +6,9 @@ followed by npm run setup. This will create your Sqlite3 database in your root f
 npm run did
 then visit localhost:8080 to see the options
 
-You can use a test DWN provided by TBD https://developer.tbd.website/ or set up a local version with https://github.com/nearlyjuly/Home_Node
+You can use a test DWN provided by TBD https://developer.tbd.website/ or set up a local version with https://github.com/nearlyjuly/Home_Node 
+
+(The DWN address used for the steps below is 0.0.0.0:3000 so you need to change this in the dwnscripts.js file if your DWN is on another device or domain.)
 
 # How to send and receive messages using a protocol
 
