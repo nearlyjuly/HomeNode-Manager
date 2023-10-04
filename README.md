@@ -1,3 +1,4 @@
+(This will be archived soon as the TBD project has created a Web5 SDK that, along with the SSI SDK, supersedes the need for this kind of set up)
 # Installation and setup for first use
 Run npm i (this will take a long time)
 followed by npm run setup. This will create your Sqlite3 database in your root folder.
@@ -19,4 +20,4 @@ You can use a test DWN provided by TBD https://developer.tbd.website/ or set up 
 5. Now use the "Send a Letter" option to write FROM the second DID TO the first DID. So the DID ID this time will be for the second DID. The DID string for the first DID can be retrieve using the "See your stored DID names and ID numbers" link further up the page.
 6. If everything has worked ok then you can now use the "Read Letters" option to read any letter sent by the second DID to the first DID (or any letter sent by someone else to your first DID if they follow the same steps). So the DID ID will go back to being that of the first DID, and the protocol name is the full "Test-letterbox" name that was generated in step 3. Use the "See your installed Protocols" if you need to see the name again.
 
-(This is working draft so it will change quite a bit in the next few months.)
+
